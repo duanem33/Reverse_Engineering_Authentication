@@ -1,0 +1,22 @@
+{
+  "name": "reverse_engineering_authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duanem33/Reverse_Engineering_Authentication.git"
+  },
+  "author": "Duane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duanem33/Reverse_Engineering_Authentication/issues"
+  },
+  "homepage": "https://github.com/duanem33/Reverse_Engineering_Authentication#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
